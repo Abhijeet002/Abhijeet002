@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm **Abhijeet**</h1>
+<h1 align="center">Hi there! 👋 I'm Abhijeet</h1>
 
 <p align="center">
   🚀 Full Stack Developer | 💡 Lifelong Learner | 📊 Aspiring Data Scientist
