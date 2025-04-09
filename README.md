@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-[![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet002)](https://github.com/abhijeet002/github-readme-stats)
-
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet002&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet002&show_icons=true)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet002&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet002&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
