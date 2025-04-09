@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋 I'm [Your Name]</h1>
+
+<p align="center">
+  🚀 Full Stack Developer | 💡 Lifelong Learner | 📊 Aspiring Data Scientist
+</p>
+
+### 🧠 About Me
+- 💻 Passionate about building web applications and solving real-world problems
+- 🔍 Always exploring new technologies and frameworks
+- 📚 Continuously upskilling in Data Science, AI, and ML
+- 🤝 Open to collaborating on exciting projects
 
 
 
