@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <strong> Abhijeet</strong></h1>
+<h1 align="center">Hi there! 👋 I'm <strong>Abhijeet</strong></h1>
 
 <p align="center">
   🚀 Full Stack Developer | 💡 Lifelong Learner | 📊 Aspiring Data Scientist
@@ -14,6 +14,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet002&layout=pie&theme=transparent)](https://github.com/abhijeet002/github-readme-stats)
 
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/abhijeet-sachan/)  
+📧 Email: abhijeetsachanwork@example.com
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijeet002&show_icons=true&theme=vision-friendly-dark)
