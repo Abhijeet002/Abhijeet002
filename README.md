@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer | 💡 Lifelong Learner | 📊 Aspiring Data Scientist
+  🚀 Full Stack Developer || 💡 Lifelong Learner || 📊 Aspiring Data Scientist
 </p>
 
 ### 🧠 About Me
